@@ -100,9 +100,9 @@
           "type": "product",
           "settings": {
             "product": "",
-            "secondary_background": false,
-            "second_image": false,
-            "image_padding": false
+            "secondary_background": true,
+            "second_image": true,
+            "image_padding": true
           }
         },
         "collection": {
